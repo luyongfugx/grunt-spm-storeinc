@@ -1,7 +1,7 @@
 {
   "name": "grunt-spm-storeinc",
   "description": "Copy files and folders.",
-  "version": "0.4.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/luyongfugx/grunt-spm-storeinc",
   "author": {
     "name": "waynelu",

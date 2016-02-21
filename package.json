@@ -35,12 +35,12 @@
     "grunt": "~0.4.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin"
   ],
-   "readme":"grunt-spm-storeinc a seajs build pluin",
+  "readme": "grunt-spm-storeinc a seajs build pluin",
   "readmeFilename": "README.md",
   "_id": "grunt-spm-storeinc@1.0.0",
   "_from": "grunt-spm-storeinc@~1.0.0"
